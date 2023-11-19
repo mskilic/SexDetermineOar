@@ -25,7 +25,7 @@ Run the script from the command line by passing the appropriate arguments. For e
 ```bash
 Rscript SexDetermineOar.R -bam /path/to/file.bam
 ```
-Alternativey:
+Alternatively:
 ```bash
 Rscript SexDetermineOar.R -idx /path/to/file.idxstats
 ```
