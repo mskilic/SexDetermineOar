@@ -1,7 +1,7 @@
 # SexDetermineOar.R
 
 ## Overview
-`SexDetermineOar.R` is an R script designed for determining the sex of both ancient and modern sheep by analyzing genomic data. It utilizes the Rx metric, which measures coverage differences between autosomes and the X chromosome. (Mittnik et al., 2016) Rx thresholds for sex determination are optimized for sheep.
+`SexDetermineOar.R` is an R script designed for the sex identification of modern/ancient sheep genomes. It utilizes the Rx metric, which measures coverage differences between autosomes and the X chromosome (Mittnik et al., 2016), with the optimization of thresholds specifically for sheep.
 ## Prerequisites
 - R programming environment
 - Samtools installed and accessible from your system's PATH
