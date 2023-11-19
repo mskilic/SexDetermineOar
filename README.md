@@ -48,7 +48,7 @@ The script outputs the following information:
 - `numthreads`: Specify the number of threads to utilize during the quality filter process.
 
 ## Limitations
-This script is specifically for sheep samples and its accuracy depends on data coverage, reference genome quality, and potential contamination.
+This script is specifically for sheep genomes and its accuracy depends on data coverage, reference genome quality, and potential contamination.
 
 ## Citation
 Please cite this paper when using SexDetermineOar.R for your publications. (Atag et al., 2023) 
