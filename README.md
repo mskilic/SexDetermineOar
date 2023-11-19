@@ -10,7 +10,7 @@
 No additional installation is required beyond R and Samtools.
 
 ## Compatibility
-Reference Genomes: SexDetermineOar.R is compatible with samples aligned to either the Oar_v3.1 or Oar_v4.0 reference genomes.
+Reference Genomes: SexDetermineOar.R has been tested with the reference genomes Oar_v3.1 and Oar_v4.0. It is expected to be compatible with other reference genomes, unless the assemblies differ significantly. In that case, the thresholds may require further adjustments.
 
 ## Usage
 This script processes genomic data in BAM or Samtools idxstats format to determine the sex of the sheep based on the Rx value.
