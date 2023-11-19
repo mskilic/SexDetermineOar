@@ -38,7 +38,7 @@ Rscript SexDetermineOar.R -bam /path/to/file.bam 1
 The script outputs the following information:
 - Sample name
 - Total reads
-- Number of X-chromosome reads
+- Number of reads on X-chromosome 
 - Rx value
 - Rx 95% confidence interval
 - Inferred sex (XX, XY, XX?, XY?, or NA)
