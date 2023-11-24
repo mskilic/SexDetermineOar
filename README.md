@@ -51,4 +51,8 @@ The script outputs the following information:
 This script is specifically for sheep genomes and its accuracy depends on data coverage, reference genome quality, and potential contamination.
 
 ## Citation
-Please cite this paper when using SexDetermineOar.R for your publications. (Atag et al., 2023) 
+Please cite this paper when using SexDetermineOar.R for your publications. 
+
+> Population genomic history of the endangered Anatolian and Cyprian mouflons in relation to worldwide wild, feral and domestic sheep lineages </br>
+> Gözde Atağ, Damla Kaptan, Eren Yüncü, Kıvılcım B. Vural, Paolo Mereu, Monica Pirastru, Mario Barbato, Giovanni G. Leoni, Merve N. Güler, Tuğçe Er, Elifnaz Eker, Tunca Deniz Yazıcı, Muhammed Sıddık Kılıç, N. Ezgi Altınışık, Ecem Ayşe Çelik, Pedro Morell Miranda, Marianne Dehasque, Viviana Floridia, Anders Götherström, C.Can Bilgin, İnci Togan, Torsten Günther, Füsun Özer, Eleftherios Hadjisterkotis, Mehmet Somel </br>
+> https://doi.org/10.1101/2023.11.23.568468
